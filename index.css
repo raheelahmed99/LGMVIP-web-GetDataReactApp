@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid skyblue;
+ padding: 30px;
+ margin: 20px;
+ box-shadow: 3px 3px blue;
+}
+.App {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color:rgb(53, 199, 84);
+  
+}
+h1{
+  text-transform:capitalize;
+  text-shadow: 1px 2px skyblue;
+  
+}
+p{
+  color:rgb(102, 26, 147);
+  font-weight: bold;
+}
+button{
+  color:white;
+  background-color: rgb(144, 144, 209);
+  margin:15px;
+  padding:5px;
+  border: 1px solid blue;
+  box-shadow: 1px 3px blue;
+  border-radius: 6px  ;
+}
+
+button:hover{
+  background-color: rgb(113, 113, 209);
+  box-shadow: 2px 4px rgb(12, 1, 26);
+}
+li{
+  text-align: center;
+  list-style: none;
+  padding : 15px;
+  color:blue
+}
